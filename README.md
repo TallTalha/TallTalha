@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding.
 
-- 🌱 I’m currently learning Solidity and Web Development.
+- 🌱 I’m currently learning Data Science and Game Development.
 
 - 📫 How to reach me talhaburakaydin.official@gmail.com
 
