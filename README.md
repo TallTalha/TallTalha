@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in coding.
 
-- 🌱 I am currently dealing with database development.
+- 🌱 I am currently dealing with data science..
 
 - 📫 How to reach me talhaburakaydin.official@gmail.com
 
